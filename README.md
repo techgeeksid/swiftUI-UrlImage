@@ -1,5 +1,5 @@
 # swiftUI-UrlImage
-download images using to SwiftUI Image 
+download images from URL to SwiftUI Image 
 
 ADD THIS TOO FILES TO YOUR PROJECT 
 
